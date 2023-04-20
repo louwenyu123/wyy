@@ -1,0 +1,12 @@
+{
+    "id": "sky123top-NeteaseMusicUniapp",
+    "name": "仿网易云APP",
+    "version": "2.2.0",
+    "description": "基于uniapp的手机版仿网易云音乐app。",
+    "keywords": [
+        "音乐播放器",
+        "前端模板",
+        "网易云",
+        "uniapp工程"
+    ]
+}
